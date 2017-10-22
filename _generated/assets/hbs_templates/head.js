@@ -1,0 +1,3 @@
+define(["handlebars"], function(Handlebars) { return Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<link rel=\"stylesheet\" href=\"https://use.typekit.net/uch8xsn.css\">\n<link rel=\"stylesheet\" href=\"/assets/css/main.css\">\n<!-- <script src=\"https://unpkg.com/vue\"></script> -->\n";
+},"useData":true}); });
